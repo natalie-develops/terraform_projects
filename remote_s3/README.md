@@ -1,0 +1,1 @@
+This configuration is assuming that the s3 bucket has already been implented previously.
